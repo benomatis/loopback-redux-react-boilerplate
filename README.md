@@ -1,3 +1,7 @@
+# My contribution to the original project
+
+Upgrade packages (pull request [#4](https://github.com/tngan/loopback-redux-react-boilerplate/pull/4))
+
 # loopback-redux-react-boilerplate
 
 A boilerplate for a Redux-React application using LoopBack
