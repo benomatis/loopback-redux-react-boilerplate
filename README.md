@@ -1,6 +1,7 @@
 # My contribution to the original project
 
 Upgrade packages (pull request [#4](https://github.com/tngan/loopback-redux-react-boilerplate/pull/4))
+Uninstall redundant modules (pull request [#6](https://github.com/tngan/loopback-redux-react-boilerplate/pull/6))
 
 # loopback-redux-react-boilerplate
 
